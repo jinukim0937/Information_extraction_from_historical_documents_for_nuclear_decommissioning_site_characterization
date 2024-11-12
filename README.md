@@ -6,11 +6,7 @@
 
 ## 참여기관
 
-연세대학교, (주)미래와도전, (주)한국전력기술,
-
-## 팀원
-
-김진우
+연세대학교, (주)미래와도전, (주)한국전력기술
 
 ## 기간
 
@@ -32,8 +28,7 @@ EasyOCR, Korean Sentence splitter, ko-sroberta-multitask
 
 ## 모델 프레임워크
 
-![image_01](/Volumes/Crucial X6/이전 자료/연구과제/미래와도전/Github/_image/image_01.png)
-
+![image_01](./_image/image_01.png)
 ## 출력 예시
 
-![image_02](/Volumes/Crucial X6/이전 자료/연구과제/미래와도전/Github/_image/image_02.png)
+![image_02](./_image/image_02.png)
